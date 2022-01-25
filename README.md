@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @satyamshah
 - 👀 I’m interested in  Software Engineering
-- 🌱 My current skill is Java ,Javascript and mysql.
+- 🌱 Experienced in Java ,Javascript and mysql.
 - 🌱 I’m currently learning Spring , Struts and Hibernate
 - 💞️ I’m looking to collaborate on projects involving Java, Spring , Struts and hibernate.
 
