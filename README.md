@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @satyamshah
 - 👀 I’m interested in  Software Engineering
 - 🌱 Experienced in Java ,Javascript and mysql.
-- 🌱 I’m currently learning Spring , Struts and Hibernate
-- 💞️ I’m looking to collaborate on projects involving Java, Spring , Struts and hibernate.
+- 🌱 I’m currently learning react, Spring and hibernate
+- 💞️ I’m looking to collaborate on projects involving  javascript,React,Java,Spring and hibernate.
 
 
 <!---
