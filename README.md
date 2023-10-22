@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @satyamshah
 - 👀 I’m Software Engineer
 - 🌱 Experienced in Full Stack Development.
-- 🌱 I’m currently learning react, Spring and hibernate
-- 💞️ I’m looking to collaborate on projects involving  javascript,React,Java,Spring and hibernate.
+- 💞️ I’m looking to collaborate on projects involving  javascript,React,Redux,FirebaseJava,Spring and hibernate.
 
 
 <!---
